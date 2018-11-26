@@ -5,3 +5,7 @@ An AI-Car based on deep learning and Arduino
 - Long Yanbing  
 - Cao Chen  
 - Deng Chao
+# Project 1 - Random Walker
+# Project 2 - Sensored Walker
+# Project 3 - DeepAI Walker
+# References
