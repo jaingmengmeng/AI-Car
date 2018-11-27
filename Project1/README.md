@@ -10,10 +10,10 @@ An AI-Car based on deep learning and Arduino
 
 # Project 2 - Sensored Walker
 
-[AI-Car/Project2]()
+[AI-Car/Project2](https://github.com/jaingmengmeng/AI-Car/tree/master/Project2)
 
 # Project 3 - DeepAI Walker
 
-[AI-Car/Project3]()
+[AI-Car/Project3](https://github.com/jaingmengmeng/AI-Car/tree/master/Project3)
 
 # References
