@@ -9,6 +9,6 @@ An AI-Car based on deep learning and Arduino
 # Project 2 - Sensored Walker
 ## 1. Infrared Following Track
 ## 2. Ultrasonic Avoid Obstacles
+## 3. Bluetooth Telecontrol
 # Project 3 - DeepAI Walker
-## 1. Bluetooth For Image Identification
 # References
