@@ -7,6 +7,10 @@ An AI-Car based on deep learning and Arduino
 
 # Project 2 - Sensored Walker
 
+<p align="center">
+    <img src="Media\video\第二次展示视频定稿.gif">
+</p>
+
 ## 1. Infrared Following Track
 
 <p align="center">
