@@ -13,7 +13,7 @@ An AI-Car based on deep learning and Arduino
 [AI-Car/Project2](https://github.com/jaingmengmeng/AI-Car/tree/master/Project2)
 
 <p align="center">
-    <img src="Project2\Media\video\第二次展示视频定稿.gif">
+    <img src="Project2\Media\video\第二次展示视频定稿.gif" alter="展示视频gif">
 </p>
 
 
