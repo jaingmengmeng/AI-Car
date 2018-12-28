@@ -36,6 +36,7 @@ An AI-Car based on Machine Learning and Arduino.
 1. **Communication between PC and AI-Car**
 2. **Traffic sign detection and identification**
 3. **Chinese speech recognition**
+4. **Isolated word Chinese speech recognition**
 
 # Developer
 
